@@ -1,0 +1,7 @@
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\bin\Debug\VectorElementos.exe.config
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\bin\Debug\VectorElementos.exe
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\bin\Debug\VectorElementos.pdb
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\obj\Debug\VectorElementos.csprojAssemblyReference.cache
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\obj\Debug\VectorElementos.csproj.CoreCompileInputs.cache
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\obj\Debug\VectorElementos.exe
+C:\Users\cospi\source\repos\VectorElementos\VectorElementos\obj\Debug\VectorElementos.pdb
